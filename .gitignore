@@ -1,2 +1,4 @@
 .idea/
 .venv/
+szwego/szwego/.env
+__pycache__
